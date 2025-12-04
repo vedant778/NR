@@ -271,4 +271,4 @@ int main() {
     } while (choice != 8);
 
     return 0;
-} tell me what can I write about this projects of Parking Allocater System for my CV in best way
+} 
